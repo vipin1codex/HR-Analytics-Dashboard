@@ -75,6 +75,8 @@ It includes:
 
 ---
 
+## Project image
+
 ## 🏁 Conclusion
 This HR Analytics project highlights how **Power BI and Excel** can be used together to convert raw HR data into meaningful insights.  
 It demonstrates practical data analysis and visualization skills required for real-world HR decision-making.
@@ -82,3 +84,4 @@ It demonstrates practical data analysis and visualization skills required for re
 ---
 
 ## 📁 Repository Structure
+
